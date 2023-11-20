@@ -5,9 +5,9 @@ export default function Footer () {
                 <div className="footer-wrap">
                     <div className="footer-list">
                         <ul>
-                            <li><a href="">Email</a></li>
-                            <li><a href="">Instagram</a></li>
-                            <li><a href="">Facebook</a></li>
+                            <li><a href="mailto:hilman.maulana@massivemusic.co.id">Email</a></li>
+                            <li><a href="https://www.instagram.com/">Instagram</a></li>
+                            <li><a href="https://www.facebook.com/">Facebook</a></li>
                         </ul>
                     </div>
                 </div>
